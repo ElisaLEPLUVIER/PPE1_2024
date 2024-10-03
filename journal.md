@@ -14,5 +14,8 @@ Vous trouverez le fichier zip de l'historique de mon terminal pour l'exercice 1.
 ##03/10/2024
 
 Pour l'exercice sur Git, je rencontre le problème suivant : quand je fais "git status", mon terminal affiche toujours que je suis à jour même si je ne le suis pas. Quand je "git pull", les nouveaux fichiers s'affichent quand même, mais si j'en croyais le "git status", il n'y avait pas de nouveauté...
+Néanmoins, dans l'autre sens, quand j'ai fait des modifications sur ma machine et que je fais "git status", là le terminal me dit que le git est en retard d'un push de ma part...
 
-Je me demande également si le journal de bord lui-même, nous devons l'éditer sur Github ou sur notre machine (personnellement le format md s'ouvre sur Spyder) ? Dans les deux cas, devons-nous rédiger en "format md" ?
+Je me demande si nous devons rédiger le journal de bord en "format md" ?
+Pour le reste de l'exercice, tout a bien fonctionné, les git pull et git push, le journal se retrouve à sa dernière version sur le git !
+
