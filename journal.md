@@ -18,4 +18,6 @@ Néanmoins, dans l'autre sens, quand j'ai fait des modifications sur ma machine 
 
 Je me demande si nous devons rédiger le journal de bord en "format md" ?
 Pour le reste de l'exercice, tout a bien fonctionné, les git pull et git push, le journal se retrouve à sa dernière version sur le git !
-
+Je rencontre un difficulté, un texte que je ne comprends pas s'affiche quand je commit sans message (quand je fais "commit -m tout va bien)...
+J'ai aussi eu du mal à faire un tag, mais j'ai compris que l'on pouvait juste écrire "git tag ..." et ça suffisait à l'ajouter au dernier commit. La commande "git tag -a <tagname> -m "message"" c'est juste pour ajouter un message au tag.
+J'ai découvert les commandes "git tag -n" pour voir la liste des tags, "git tag -d" pour effacer un tag et enfin "git diff <tag1>..<tag2>" pour voir la différence entre deux versions de commit tagées.
